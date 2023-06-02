@@ -27,7 +27,12 @@ function App() {
         title = "";
         metaDescription = "";
         break;
-    }
+      
+        default:
+          
+      }
+      
+      
 
     if (title) {
       document.title = title;
