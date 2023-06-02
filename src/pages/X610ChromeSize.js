@@ -1,7 +1,7 @@
 // import "bootstrap/dist/css/bootstrap.min.css";
 import { Form, Button } from "react-bootstrap";
 import Vector from '../Vector.png';
-import PasswordInput from '../pages/Password';
+// import PasswordInput from '../pages/Password';
 import React, { useState } from 'react';
 
 const X610ChromeSize = () => {
